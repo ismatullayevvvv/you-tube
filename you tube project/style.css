@@ -1,0 +1,119 @@
+/* starting */
+.icon {
+    color: white;
+    float: left;
+    text-align: center;
+    width: 10%;
+    height: 20px;
+    font-size: 22px;
+    margin-left: 7%;
+    margin-top: 10%;
+}
+
+.tube {
+    color: white;
+    float: left;
+    text-align: center;
+    margin-left: 15%;
+    margin-top: -280%;
+}
+
+.input-one {
+    float: left;
+    text-align: center;
+    width: 40%;
+    margin-left: 20%;
+    margin-top: -52.5%;
+}
+
+.icon-one {
+    color: white;
+    float: left;
+    text-align: center;
+    width: 3%;
+    height: 30px;
+    margin-left: 60.5%;
+    margin-top: -52%;
+}
+
+.button-one {
+    float: left;
+    text-align: center;
+    width: 10%;
+    height: 30px;
+    margin-left: -2%;
+    margin-top: -1.8%;
+}
+
+.button-two {
+    float: left;
+    text-align: center;
+    margin-left: 65%;
+    margin-top: -52.5%;
+}
+
+.icon-two {
+    width: 10%;
+    height: 20px;
+    margin-left: 89%;
+}
+
+.buttons :hover{
+    color: rgb(84, 83, 85);
+}
+
+.video-one {
+    float: left;
+    text-align: left;
+}
+
+.shorts {
+    float: left;
+    text-align: center;
+    width: 20%; 
+    height: 30px;
+    margin-left: -12%;
+    margin-top: -12%;
+}
+
+.Connect {
+    float: left;
+    text-align: center;
+    width: 10%;
+    height: 20px;
+    margin-top: 2%;
+}
+
+.menu {
+    width: 200px;
+    color: white;
+    padding: 10px;
+    display: block;
+    transition:0.3s;
+    margin-top: 25%;
+}
+
+.menu ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.menu li {
+    padding: 8px;
+    margin: 5px 0;
+}
+
+button {
+    margin-top: 20px;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+
+
+.menu.collapsed {
+    width: 0;
+    padding: 0;
+    overflow: hidden;
+}
